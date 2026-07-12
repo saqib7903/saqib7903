@@ -1,4 +1,6 @@
-<svg width="1200" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bat Divider">
+<svg width="1200" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="batDividerTitle batDividerDesc">
+  <title id="batDividerTitle">Bat Divider</title>
+  <desc id="batDividerDesc">A horizontal decorative divider line with a centered bat symbol.</desc>
   <defs>
     <linearGradient id="lineGlow" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#0ff" stop-opacity="0"/>

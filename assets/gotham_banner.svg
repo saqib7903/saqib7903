@@ -1,4 +1,6 @@
-<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gotham Banner">
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="gothamBannerTitle gothamBannerDesc">
+  <title id="gothamBannerTitle">Gotham Banner</title>
+  <desc id="gothamBannerDesc">A night skyline-themed banner with a bat silhouette and the text Saqib, The Night Shift Builder.</desc>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#02030a"/>
