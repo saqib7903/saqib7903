@@ -1,32 +1,22 @@
+<h1 align="center">Saqib | Royal Gotham Mode</h1>
+
 <p align="center">
-  <img src="./assets/gotham_banner.svg" alt="Gotham skyline banner" width="100%"/>
+  <strong>Full-Stack Engineer</strong> • <strong>Systems Thinker</strong> • <strong>AI Tooling Builder</strong>
 </p>
 
 <p align="center">
-  <img src="./assets/bat_signal.svg" alt="Bat signal" width="420"/>
+  Gotham discipline. Royal finish. Production software built after dark.
 </p>
 
-<h1 align="center">⚡ Saqib // Gotham Mode ⚡</h1>
+<p align="center"><strong>----------------------------------------</strong></p>
 
-<p align="center">
-&lt; Full-Stack Engineer /&gt; | 🧩 Systems Thinker | 🤖 AI Tooling Nerd | 🦇 Night-shift shipper
-</p>
-
-<h3 align="center">Ships production apps. Not localhost demos. No cape required.</h3>
-
-<p align="center">
-  <i>🦇 "Gotham didn't need a hero who clocks out at 6. It needed one who ships at 2 AM."</i>
-</p>
-
-<p align="center"><img src="./assets/bat_divider.svg" alt="Bat divider" width="420"/></p>
+<p align="center"><i>No SVG theatrics. Just a dark knight palette with a cleaner crown.</i></p>
 
 <br/>
 
 ## 🎯 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=whoami;%3E+full-stack+engineer;%3E+breaks+AI+agents+for+a+living;%3E+ships+prod%2C+not+localhost;sudo+hire_saqib+--now" alt="Typing SVG" />
-</p>
+<p align="center"><strong>Wayne Terminal</strong></p>
 
 ```bash
 $ whoami
@@ -42,9 +32,9 @@ Designing adversarial benchmarks that expose failure
 modes in frontier AI coding agents.
 
 $ cat notes.txt
-uptime: fueled by chai and 2am debugging sessions
+uptime: fueled by chai and late-night shipping sessions
 known bugs: none, only "undocumented features"
-alter_ego: by day, a dev. by night, also a dev — just quieter about it 🦇
+style: royal navy, gold accents, and Gotham-grade execution
 ```
 
 <br/>
@@ -60,7 +50,7 @@ alter_ego: by day, a dev. by night, also a dev — just quieter about it 🦇
 
 - **Stack:** React + Vite + FastAPI + PostgreSQL
 - 🔄 Auto-migration engine — zero manual DB steps
-- 📊 Real-time SVG telemetry dashboard
+- 📊 Real-time operational telemetry dashboard
 - 🐳 Dockerized, deployed on Vercel + Render
 - **[Live →](https://invetory-system-mu.vercel.app)**
 
@@ -107,32 +97,32 @@ alter_ego: by day, a dev. by night, also a dev — just quieter about it 🦇
 
 <br/>
 
-<p align="center"><img src="./assets/bat_divider.svg" alt="Bat divider" width="420"/></p>
+<p align="center"><strong>----------------------------------------</strong></p>
 
-## 🦇 The Utility Belt
+## The Utility Belt
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0F2147?style=for-the-badge&logo=javascript&logoColor=F2C14E" />
+<img src="https://img.shields.io/badge/TypeScript-1D3C78?style=for-the-badge&logo=typescript&logoColor=F2C14E" />
+<img src="https://img.shields.io/badge/Python-243B6B?style=for-the-badge&logo=python&logoColor=F2C14E" />
+<img src="https://img.shields.io/badge/C++-304C89?style=for-the-badge&logo=cplusplus&logoColor=F2C14E" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0F2147?style=for-the-badge&logo=react&logoColor=F2C14E" />
+<img src="https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=F2C14E" />
+<img src="https://img.shields.io/badge/Vite-3A2F6B?style=for-the-badge&logo=vite&logoColor=F2C14E" />
+<img src="https://img.shields.io/badge/TailwindCSS-0F4C5C?style=for-the-badge&logo=tailwindcss&logoColor=F2C14E" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-173D2D?style=for-the-badge&logo=nodedotjs&logoColor=F2C14E" />
+<img src="https://img.shields.io/badge/FastAPI-174C4F?style=for-the-badge&logo=fastapi&logoColor=F2C14E" />
+<img src="https://img.shields.io/badge/Express-2F2F2F?style=for-the-badge&logo=express&logoColor=F2C14E" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-1E3A70?style=for-the-badge&logo=postgresql&logoColor=F2C14E" />
+<img src="https://img.shields.io/badge/MongoDB-204B3A?style=for-the-badge&logo=mongodb&logoColor=F2C14E" />
+<img src="https://img.shields.io/badge/Docker-134074?style=for-the-badge&logo=docker&logoColor=F2C14E" />
+<img src="https://img.shields.io/badge/Vercel-1A1A1A?style=for-the-badge&logo=vercel&logoColor=F2C14E" />
 </p>
 
 <br/>
@@ -140,12 +130,12 @@ alter_ego: by day, a dev. by night, also a dev — just quieter about it 🦇
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saqib7903&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqib7903&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saqib7903&show_icons=true&hide_border=true&count_private=true&bg_color=F8F4E9&title_color=0F2147&text_color=2E2A25&icon_color=C89B3C&ring_color=C89B3C" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqib7903&hide_border=true&background=F8F4E9&stroke=C89B3C&ring=0F2147&fire=C89B3C&currStreakLabel=0F2147&sideLabels=2E2A25&currStreakNum=0F2147&sideNums=0F2147&dates=7A6F5D" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib7903&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib7903&layout=compact&hide_border=true&bg_color=F8F4E9&title_color=0F2147&text_color=2E2A25" height="150"/>
 </p>
 
 <br/>
@@ -164,24 +154,22 @@ alter_ego: by day, a dev. by night, also a dev — just quieter about it 🦇
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-> 🦇 *Bugs are like criminals — they thrive in the dark. Good logging is a spotlight.*
+> *In Gotham or production, the edge belongs to the one who is prepared.*
 
 <br/>
 
-## 🤝 Signal Me
+## Signal Me
 
-<p align="center"><i>🦇 See the signal? That's your cue.</i></p>
+<p align="center"><i>The signal is lower-key now, but it still means the same thing.</i></p>
 
 <p align="center">
-  <a href="mailto:saqib08011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohd-saqib-950a78244"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/saqib7"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:saqib08011@gmail.com"><img src="https://img.shields.io/badge/Email-0F2147?style=for-the-badge&logo=gmail&logoColor=F2C14E" /></a>
+  <a href="https://www.linkedin.com/in/mohd-saqib-950a78244"><img src="https://img.shields.io/badge/LinkedIn-1D3C78?style=for-the-badge&logo=linkedin&logoColor=F2C14E" /></a>
+  <a href="https://leetcode.com/u/saqib7"><img src="https://img.shields.io/badge/LeetCode-3B2A12?style=for-the-badge&logo=leetcode&logoColor=F2C14E" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saqib7903&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=saqib7903&style=for-the-badge&color=0F2147&label=Royal%20Visitors" />
 </p>
 
-<p align="center">⭐ If any of this is useful to you, drop a star on the repos. Gotham loves good signals.</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<p align="center">If the work resonates, step into the cave and start a conversation.</p>
