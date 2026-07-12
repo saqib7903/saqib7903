@@ -1,14 +1,24 @@
-<h1 align="center">⚡ Yo, I'm Saqib ⚡</h1>
-
 <p align="center">
-&lt; Full-Stack Engineer /&gt; | 🧩 Systems Thinker | 🤖 AI Tooling Nerd
+  <img src="./assets/gotham_banner.svg" alt="Gotham skyline banner" width="100%"/>
 </p>
 
-<h3 align="center">Ships production apps. Not localhost demos.</h3>
+<p align="center">
+  <img src="./assets/bat_signal.svg" alt="Bat signal" width="420"/>
+</p>
+
+<h1 align="center">⚡ Saqib // Gotham Mode ⚡</h1>
+
+<p align="center">
+&lt; Full-Stack Engineer /&gt; | 🧩 Systems Thinker | 🤖 AI Tooling Nerd | 🦇 Night-shift shipper
+</p>
+
+<h3 align="center">Ships production apps. Not localhost demos. No cape required.</h3>
 
 <p align="center">
   <i>🦇 "Gotham didn't need a hero who clocks out at 6. It needed one who ships at 2 AM."</i>
 </p>
+
+<p align="center"><img src="./assets/bat_divider.svg" alt="Bat divider" width="420"/></p>
 
 <br/>
 
@@ -97,6 +107,8 @@ alter_ego: by day, a dev. by night, also a dev — just quieter about it 🦇
 
 <br/>
 
+<p align="center"><img src="./assets/bat_divider.svg" alt="Bat divider" width="420"/></p>
+
 ## 🦇 The Utility Belt
 
 <p>
@@ -170,6 +182,6 @@ alter_ego: by day, a dev. by night, also a dev — just quieter about it 🦇
   <img src="https://komarev.com/ghpvc/?username=saqib7903&style=for-the-badge&color=blueviolet" />
 </p>
 
-<p align="center">⭐ If any of this is useful to you, drop a star on the repos</p>
+<p align="center">⭐ If any of this is useful to you, drop a star on the repos. Gotham loves good signals.</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
