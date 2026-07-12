@@ -6,26 +6,35 @@
 
 <h3 align="center">Ships production apps. Not localhost demos.</h3>
 
+<p align="center">
+  <i>🦇 "Gotham didn't need a hero who clocks out at 6. It needed one who ships at 2 AM."</i>
+</p>
+
 <br/>
 
 ## 🎯 About Me
 
-```javascript
-const saqib = {
-  pronouns: "He" | "Him",
-  location: "Greater Noida, India",
-  role: "AI Software Engineer @ Handshake AI (Freelance)",
-  code: ["JavaScript", "TypeScript", "Python", "C++"],
-  stack: {
-    frontend: ["React", "Next.js", "Vite", "TailwindCSS", "Zustand", "TanStack Query"],
-    backend: ["Node.js", "Express", "FastAPI", "REST APIs", "Socket.io"],
-    databases: ["PostgreSQL", "MongoDB", "SQLite"],
-    devops: ["Docker", "GitHub Actions", "Vercel", "Render"],
-  },
-  currentFocus: "hardening adversarial benchmarks that break frontier AI coding agents",
-  funFact: "I write the failing test before I write the fix",
-  status: "final-year B.Tech CSE, graduating 2026 🎓",
-};
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=whoami;%3E+full-stack+engineer;%3E+breaks+AI+agents+for+a+living;%3E+ships+prod%2C+not+localhost;sudo+hire_saqib+--now" alt="Typing SVG" />
+</p>
+
+```bash
+$ whoami
+saqib — full-stack engineer
+
+$ cat role.txt
+AI Software Engineer @ Handshake AI (Freelance)
+B.Tech CSE, KCC Institute — Class of 2026 (graduated ✅)
+Open to full-time Software Engineer roles
+
+$ cat mission.txt
+Designing adversarial benchmarks that expose failure
+modes in frontier AI coding agents.
+
+$ cat notes.txt
+uptime: fueled by chai and 2am debugging sessions
+known bugs: none, only "undocumented features"
+alter_ego: by day, a dev. by night, also a dev — just quieter about it 🦇
 ```
 
 <br/>
@@ -88,7 +97,7 @@ const saqib = {
 
 <br/>
 
-## 🛠️ Arsenal
+## 🦇 The Utility Belt
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -143,9 +152,13 @@ const saqib = {
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
+> 🦇 *Bugs are like criminals — they thrive in the dark. Good logging is a spotlight.*
+
 <br/>
 
-## 🤝 Let's Connect
+## 🤝 Signal Me
+
+<p align="center"><i>🦇 See the signal? That's your cue.</i></p>
 
 <p align="center">
   <a href="mailto:saqib08011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
