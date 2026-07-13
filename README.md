@@ -1,175 +1,174 @@
-<h1 align="center">Saqib | Royal Gotham Mode</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-Stack Engineer</strong> • <strong>Systems Thinker</strong> • <strong>AI Tooling Builder</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=250&section=header&text=SAQIB&fontSize=90&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Systems%20%7C%20Gotham's%20Watchtower&descAlignY=58&descAlign=50" width="100%"/>
 
-<p align="center">
-  Gotham discipline. Royal finish. Production software built after dark.
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=800&lines=I+am+vengeance.+I+am+the+night.;I+am+%40saqib7903.;Building+in+the+shadows+of+Gotham.;Frontend+by+day.+AI+Systems+by+night." alt="Typing SVG" />
+</a>
 
-<p align="center"><strong>----------------------------------------</strong></p>
+![Profile Views](https://komarev.com/ghpvc/?username=saqib7903&label=INTEL%20GATHERED&color=39FF14&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/saqib7903?label=ALLIES&style=for-the-badge&color=39FF14&labelColor=0d0d0d)
 
-<p align="center"><i>No SVG theatrics. Just a dark knight palette with a cleaner crown.</i></p>
+</div>
 
-<br/>
+---
 
-## 🎯 About Me
-
-<p align="center"><strong>Wayne Terminal</strong></p>
-
-```bash
-$ whoami
-saqib — full-stack engineer
-
-$ cat role.txt
-AI Software Engineer @ Handshake AI (Freelance)
-B.Tech CSE, KCC Institute — Class of 2026 (graduated ✅)
-Open to full-time Software Engineer roles
-
-$ cat mission.txt
-Designing adversarial benchmarks that expose failure
-modes in frontier AI coding agents.
-
-$ cat notes.txt
-uptime: fueled by chai and late-night shipping sessions
-known bugs: none, only "undocumented features"
-style: royal navy, gold accents, and Gotham-grade execution
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  WAYNE ENTERPRISES // R&D DIVISION                               │
+│  CLEARANCE LEVEL: FULL STACK                                     │
+│  STATUS: ACTIVE                                                  │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+## 🦇 CASE FILE: SAQIB
 
-## 🔥 What I'm Building
+```yaml
+alias:        saqib7903
+role:         Full-Stack Developer (MERN) + AI Software Engineer
+current_gig:  Freelance @ Handshake AI — adversarial benchmark design
+                for frontier coding agents (Project Dynamo)
+origin:       B.Tech CSE, KCC Institute of Technology & Management
+weapon_of_choice: JavaScript / TypeScript / Python
+signature_move:   breaking AI agents that think they're unbreakable
+alignment:    chaotic good, ships fast, fixes it later
+```
+
+---
+
+## 🕸️ THE UTILITY BELT
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=39FF14)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=39FF14)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=39FF14)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=39FF14)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=39FF14)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=39FF14)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=39FF14)
+
+</div>
+
+---
+
+## 🌃 GOTHAM SKYLINE (ACTIVE OPERATIONS)
+
+<div align="center">
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d0d0d"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#sky)"/>
+  <circle cx="700" cy="40" r="28" fill="#39FF14" opacity="0.85"/>
+  <path d="M660 40 L680 25 L690 40 L700 15 L710 40 L720 25 L740 40" stroke="#39FF14" stroke-width="2" fill="none" opacity="0.6"/>
+  <rect x="30" y="90" width="40" height="110" fill="#111"/>
+  <rect x="80" y="60" width="55" height="140" fill="#161616"/>
+  <rect x="145" y="110" width="35" height="90" fill="#111"/>
+  <rect x="190" y="40" width="60" height="160" fill="#181818"/>
+  <rect x="260" y="130" width="30" height="70" fill="#111"/>
+  <rect x="300" y="70" width="45" height="130" fill="#151515"/>
+  <rect x="355" y="20" width="70" height="180" fill="#1a1a1a"/>
+  <polygon points="355,20 390,-10 425,20" fill="#1a1a1a"/>
+  <rect x="440" y="100" width="40" height="100" fill="#111"/>
+  <rect x="490" y="50" width="55" height="150" fill="#161616"/>
+  <rect x="555" y="120" width="35" height="80" fill="#111"/>
+  <rect x="600" y="80" width="50" height="120" fill="#171717"/>
+  <g fill="#39FF14" opacity="0.7">
+    <rect x="40" y="105" width="4" height="6"/><rect x="55" y="120" width="4" height="6"/>
+    <rect x="95" y="80" width="4" height="6"/><rect x="110" y="100" width="4" height="6"/><rect x="95" y="140" width="4" height="6"/>
+    <rect x="200" y="60" width="4" height="6"/><rect x="220" y="90" width="4" height="6"/><rect x="235" y="130" width="4" height="6"/>
+    <rect x="365" y="40" width="4" height="6"/><rect x="385" y="70" width="4" height="6"/><rect x="405" y="110" width="4" height="6"/>
+    <rect x="500" y="70" width="4" height="6"/><rect x="520" y="100" width="4" height="6"/><rect x="530" y="140" width="4" height="6"/>
+    <rect x="610" y="100" width="4" height="6"/><rect x="630" y="130" width="4" height="6"/>
+  </g>
+  <rect y="195" width="800" height="5" fill="#000"/>
+</svg>
+</div>
+
+---
+
+## 📁 BATCOMPUTER FILES (FEATURED PROJECTS)
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📦 Nexus Stock
-**Inventory & Order Management CRM**
-
-- **Stack:** React + Vite + FastAPI + PostgreSQL
-- 🔄 Auto-migration engine — zero manual DB steps
-- 📊 Real-time operational telemetry dashboard
-- 🐳 Dockerized, deployed on Vercel + Render
-- **[Live →](https://invetory-system-mu.vercel.app)**
+### 🔋 Nexus Stock
+Inventory/order CRM with dynamic schema auto-migration engine + custom SVG telemetry charts.
+`React` `Vite` `FastAPI` `PostgreSQL` `Docker`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎥 Yappr
-**Real-Time Video Chat & Messaging**
-
-- **Stack:** MERN + Stream Chat/Video SDK
-- 🔐 JWT auth in HTTP-only cookies
-- ⚡ Zustand + TanStack Query for state
-- 🌐 Live calls, protected onboarding
-- **[Live →](https://yappr-video-calls1-1.onrender.com)**
+### 🕵️ Resumind
+AI resume analyzer — NLP/TF-IDF pipeline surfacing gaps recruiters actually care about.
+`MERN` `Python` `NLP`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🧠 Resumind
-**AI-Powered Resume Analyzer**
-
-- **Stack:** NLP + TF-IDF scoring
-- 📝 STAR-framework bullet evaluation
-- 🎯 Detects action verbs, context, impact
-- 📈 Real-time scoring + radar charts
-- **[Repo →](https://github.com/saqib7903/Ai-Analyzer-for-Resume)**
+### 🦉 Yappr
+Real-time language exchange app — video chat via Stream SDK, live text chat.
+`MERN` `Stream Chat/Video SDK`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🚀 What's Next?
-**Currently exploring...**
-
-- 🧪 Adversarial task design for AI agent evals
-- 🏗️ System design fundamentals, deeper
-- 📚 Distributed systems & formal verification
-- 🌱 Open source contributions
+### 🎯 PathWise AI
+AI-powered interview prep platform, built with a squad, GPT-4 under the hood.
+`React` `Node` `MongoDB` `GPT-4`
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<p align="center"><strong>----------------------------------------</strong></p>
+## 📊 BAT-SIGNAL METRICS
 
-## The Utility Belt
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/JavaScript-0F2147?style=for-the-badge&logo=javascript&logoColor=F2C14E" />
-<img src="https://img.shields.io/badge/TypeScript-1D3C78?style=for-the-badge&logo=typescript&logoColor=F2C14E" />
-<img src="https://img.shields.io/badge/Python-243B6B?style=for-the-badge&logo=python&logoColor=F2C14E" />
-<img src="https://img.shields.io/badge/C++-304C89?style=for-the-badge&logo=cplusplus&logoColor=F2C14E" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/React-0F2147?style=for-the-badge&logo=react&logoColor=F2C14E" />
-<img src="https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=F2C14E" />
-<img src="https://img.shields.io/badge/Vite-3A2F6B?style=for-the-badge&logo=vite&logoColor=F2C14E" />
-<img src="https://img.shields.io/badge/TailwindCSS-0F4C5C?style=for-the-badge&logo=tailwindcss&logoColor=F2C14E" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Node.js-173D2D?style=for-the-badge&logo=nodedotjs&logoColor=F2C14E" />
-<img src="https://img.shields.io/badge/FastAPI-174C4F?style=for-the-badge&logo=fastapi&logoColor=F2C14E" />
-<img src="https://img.shields.io/badge/Express-2F2F2F?style=for-the-badge&logo=express&logoColor=F2C14E" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-1E3A70?style=for-the-badge&logo=postgresql&logoColor=F2C14E" />
-<img src="https://img.shields.io/badge/MongoDB-204B3A?style=for-the-badge&logo=mongodb&logoColor=F2C14E" />
-<img src="https://img.shields.io/badge/Docker-134074?style=for-the-badge&logo=docker&logoColor=F2C14E" />
-<img src="https://img.shields.io/badge/Vercel-1A1A1A?style=for-the-badge&logo=vercel&logoColor=F2C14E" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=saqib7903&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=c9c9c9&border_color=39FF14&hide_border=false" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saqib7903&theme=radical&background=0d0d0d&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border=39FF14" width="48%"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib7903&layout=compact&theme=radical&bg_color=0d0d0d&title_color=39FF14&text_color=c9c9c9&border_color=39FF14&hide_border=false" width="48%"/>
 
-## 📊 GitHub Analytics
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saqib7903&theme=react-dark&bg_color=0d0d0d&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" width="98%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saqib7903&show_icons=true&hide_border=true&count_private=true&bg_color=F8F4E9&title_color=0F2147&text_color=2E2A25&icon_color=C89B3C&ring_color=C89B3C" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqib7903&hide_border=true&background=F8F4E9&stroke=C89B3C&ring=0F2147&fire=C89B3C&currStreakLabel=0F2147&sideLabels=2E2A25&currStreakNum=0F2147&sideNums=0F2147&dates=7A6F5D" height="165"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib7903&layout=compact&hide_border=true&bg_color=F8F4E9&title_color=0F2147&text_color=2E2A25" height="150"/>
-</p>
+---
 
-<br/>
+## 📡 SIGNAL THE BAT
 
-## 🎯 Current Goals for 2026
+<div align="center">
 
-- 🚀 Land a full-time SWE / full-stack role
-- 🧪 Ship 5+ hardened adversarial eval tasks at Handshake AI
-- 📚 Go deep on distributed systems & system design
-- 🌍 Contribute to real open-source projects, not just fork-and-star
-- 💼 Cross 200+ LeetCode problems solved
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=39FF14)](#)
+[![Twitter](https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=39FF14)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=39FF14)](#)
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=39FF14)](#)
 
-<br/>
+</div>
 
-## 💬 Thought for the Day
+```
+> whoami
+saqib7903 — full-stack dev, benchmark breaker, Gotham's ghost in the machine.
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> status
+[ONLINE] watching the repos. always.
+```
 
-> *In Gotham or production, the edge belongs to the one who is prepared.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
 
-<br/>
-
-## Signal Me
-
-<p align="center"><i>The signal is lower-key now, but it still means the same thing.</i></p>
-
-<p align="center">
-  <a href="mailto:saqib08011@gmail.com"><img src="https://img.shields.io/badge/Email-0F2147?style=for-the-badge&logo=gmail&logoColor=F2C14E" /></a>
-  <a href="https://www.linkedin.com/in/mohd-saqib-950a78244"><img src="https://img.shields.io/badge/LinkedIn-1D3C78?style=for-the-badge&logo=linkedin&logoColor=F2C14E" /></a>
-  <a href="https://leetcode.com/u/saqib7"><img src="https://img.shields.io/badge/LeetCode-3B2A12?style=for-the-badge&logo=leetcode&logoColor=F2C14E" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saqib7903&style=for-the-badge&color=0F2147&label=Royal%20Visitors" />
-</p>
-
-<p align="center">If the work resonates, step into the cave and start a conversation.</p>
+</div>
